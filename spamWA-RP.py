@@ -47,7 +47,7 @@ hdurl2 = {
 if os.name == 'nt':os.system("cls")
 else:os.system("clear")
 print("\033[1;93mSubscribe Channel Menembus Batas 911\033[1;0m")
-os.system('xdg-open https://youtube.com/c/MenembusBatas911')
+os.system('xdg-open https://youtube.com/c/UCTkQw-C308iJsAaKtjF0Rzw')
 time.sleep(5)
 if os.name == 'nt':os.system("cls")
 else:os.system("clear")
